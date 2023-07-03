@@ -1,2 +1,1 @@
 # Rent-mate
-# Rent-mate
